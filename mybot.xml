@@ -1,0 +1,6 @@
+<context>        
+         <input pattern=''привет''>
+                 <output
+dusay=''приветик''/>
+         </input>
+<context>
